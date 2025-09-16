@@ -3,11 +3,17 @@
 A smart pet care & adoption system with role-based dashboards for Pet Owners, Veterinarians, Shelters, and Admins.
 Built with PHP 8, MySQL, Composer, PHPMailer, and OAuth.
 
-<video controls preload="metadata" style="max-width:100%;height:auto;">
-  <source src="/docs/demo.mp4" type="video/mp4">
-  Sorry — your browser doesn't support embedded videos. 
-  <a href="/docs/demo.mp4">Download the video</a>.
-</video>
+<!-- Responsive YouTube embed — paste into your docs HTML page -->
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;max-width:100%;margin-bottom:1rem;">
+  <iframe
+    src="https://www.youtube.com/embed/VIDEO_ID"
+    title="FurShield Demo"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;">
+  </iframe>
+</div>
+
 
 
 ## 📖 Introduction  
