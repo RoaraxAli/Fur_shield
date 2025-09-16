@@ -3,9 +3,6 @@
 A smart pet care & adoption system with role-based dashboards for Pet Owners, Veterinarians, Shelters, and Admins.
 Built with PHP 8, MySQL, Composer, PHPMailer, and OAuth.
 
-## 🎥 Demo Video  
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
-
 ## 📖 Introduction  
 👉 [Read the Full Introduction Guide](https://online.fliphtml5.com/roarax/ndqd/#p=4)
 
